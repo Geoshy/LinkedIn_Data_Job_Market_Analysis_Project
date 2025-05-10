@@ -1,0 +1,289 @@
+,id,title,company,location,source,date_posted,job_title_short,skills,work_type,educational_background,experience_years,country
+0,1,Data Analyst,Meta,"New York, NY",LinkedIn,2025-04-14,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Machine Learning', 'Data Mining', 'Natural Language Processing', 'NLP', 'Statistical Analysis', 'Relational Databases']",,True,4+,United States
+1,2,Data Analyst,Meta,"San Francisco, CA",LinkedIn,2025-04-14,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Machine Learning', 'Data Mining', 'Natural Language Processing', 'NLP', 'Statistical Analysis', 'Relational Databases']",,True,4+,United States
+2,3,Data Analyst,Meta,"Los Angeles, CA",LinkedIn,2025-04-14,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Machine Learning', 'Data Mining', 'Natural Language Processing', 'NLP', 'Statistical Analysis', 'Relational Databases']",,True,4+,United States
+3,4,Data Analyst,Meta,"Washington, DC",LinkedIn,2025-04-14,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Machine Learning', 'Data Mining', 'Natural Language Processing', 'NLP', 'Statistical Analysis', 'Relational Databases']",,True,4+,United States
+4,5,Data Analyst II,Pinterest,"Chicago, IL",LinkedIn,2025-04-16,Data Analyst,"['Python', 'SQL']",,True,4+,United States
+5,6,Data Analyst,FanDuel,"New York, NY",LinkedIn,2025-04-11,Data Analyst,"['Tableau', 'Python', 'SQL', 'Excel', 'Data Visualization']",,True,3+,United States
+6,7,"Data Analyst, Production Finance Operations & Innovation",Netflix,"Los Angeles, CA",LinkedIn,2025-04-10,Data Analyst,"['Python', 'SQL']",,False,,United States
+7,8,Data Analyst - Marketing,FanDuel,"New York, NY",LinkedIn,2025-04-13,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Excel', 'Data Visualization']",,True,2+,United States
+8,9,Data Analyst,SBH Fashion,"New York, NY",LinkedIn,2025-04-12,Data Analyst,"['Tableau', 'Python', 'SQL', 'Excel', 'Data Visualization']",remote,True,3+,United States
+9,14,Data Analyst II,Pinterest,"New York, NY",LinkedIn,2025-04-16,Data Analyst,"['Python', 'SQL']",,True,4+,United States
+10,15,Data Analyst II,Pinterest,"San Francisco, CA",LinkedIn,2025-04-16,Data Analyst,"['Python', 'SQL']",,True,4+,United States
+11,16,"Data Analyst, Global Partnerships & Content",Meta,"New York, NY",LinkedIn,2025-04-14,Data Analyst,"['SQL', 'Machine Learning']",,False,5+,United States
+12,29,Data Analyst,FanDuel,"Atlanta, GA",LinkedIn,2025-04-11,Data Analyst,"['Tableau', 'Python', 'SQL', 'Excel', 'Data Visualization']",,True,3+,United States
+13,30,Data Analyst,FinThrive,United States,LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel']",,True,1+,United States
+14,31,Senior Data Analyst,alice + olivia,"New York, NY",LinkedIn,2025-04-15,Data Analyst,"['SQL', 'Excel']",,True,5+,United States
+15,32,"Data Products Analyst, YouTube",Google,"New York, NY",LinkedIn,2025-04-14,Data Analyst,"['Python', 'Spark', 'SQL', 'Machine Learning']",,True,3+,United States
+16,34,Customer Relationship Management Analyst,Bvlgari,New York City Metropolitan Area,LinkedIn,2025-04-11,Data Analyst,['Excel'],,True,3+,United States
+17,35,"Data Analyst - SQL, ERP",CyberCoders,"Yakima, WA",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'SQL', 'Data Visualization']",remote,True,,United States
+18,54,Marketing Data Analyst,TechHuman,United States,LinkedIn,2025-04-11,Data Analyst,"['Tableau', 'SQL']",remote,False,,United States
+19,55,Data Analyst,Hamilton Porter,"New York, NY",LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'Python']",onsite,False,5+,United States
+20,56,Analytics Associate,Brooklinen,"Brooklyn, NY",LinkedIn,2025-04-10,Other,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",remote,True,3+,United States
+21,57,Data Analyst I,Equip,United States,LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'SQL']",,False,2+,United States
+22,58,Data Analyst,Toyota North America,"Plano, TX",LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Excel']",,True,3+,United States
+23,59,"Data & Analytics, Analyst",TikTok,"Los Angeles, CA",LinkedIn,2025-04-16,Data Analyst,"['Python', 'SQL', 'Data Visualization']",,True,2+,United States
+24,60,Junior Data Analyst - Remote,Lensa,United States,LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Python', 'SQL', 'Excel', 'Data Visualization']",remote,True,,United States
+25,61,"Data Products Analyst, YouTube",Google,"Los Angeles, CA",LinkedIn,2025-04-14,Data Analyst,"['Python', 'Spark', 'SQL', 'Machine Learning']",,True,3+,United States
+26,62,"Data Products Analyst, YouTube",Google,"Mountain View, CA",LinkedIn,2025-04-14,Data Analyst,"['Python', 'Spark', 'SQL', 'Machine Learning']",,True,3+,United States
+27,63,"Data Products Analyst, YouTube",Google,"San Bruno, CA",LinkedIn,2025-04-14,Data Analyst,"['Python', 'Spark', 'SQL', 'Machine Learning']",,True,3+,United States
+28,64,Data Analyst,Sony,"Culver City, CA",LinkedIn,2025-04-17,Data Analyst,"['Tableau', 'Python', 'SQL']",remote,True,,United States
+29,65,People Data Analyst,CAVA,Washington DC-Baltimore Area,LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'Excel', 'Data Visualization']",,True,2+,United States
+30,66,Customer Insights Analyst,Nextdoor,"New York, NY",LinkedIn,2025-04-15,Other,"['Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",,True,4+,United States
+31,67,Data Analyst,Salt,United States,LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'SQL']",remote,False,,United States
+32,68,Data Analyst,InterEx Group,United States,LinkedIn,2025-04-14,Data Analyst,['SQL'],,True,2+,United States
+33,69,Data Analyst I,Colibri Group,United States,LinkedIn,2025-04-11,Data Analyst,"['Power BI', 'SQL', 'Excel']",,True,,United States
+34,70,Data Analyst Intern (Fall start),AARP,"Washington, DC",LinkedIn,2025-04-10,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Excel', 'Data Visualization']",remote,True,,United States
+35,71,"Analyst, Data Science, RMBS",Cerberus Capital Management,"New York, NY",LinkedIn,2025-04-10,Other,"['Python', 'SQL']",,True,2+,United States
+36,72,Data Analyst,Webologix Ltd/ INC,United States,LinkedIn,2025-04-10,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Excel', 'Data Visualization', 'Statistical Analysis']",remote,True,2+,United States
+37,73,Data Analyst,iSpot,United States,LinkedIn,2025-04-10,Data Analyst,"['Python', 'SQL', 'R', 'Machine Learning']",remote,True,1+,United States
+38,74,Analyst,NielsenIQ,"New York, NY",LinkedIn,2025-04-14,Other,[],,False,2+,United States
+39,75,Data Analyst,RYZE,United States,LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel', 'Data Visualization']",remote,True,2+,United States
+40,76,Data Analyst,DHL Express,"Plantation, FL",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",,False,3+,United States
+41,77,Business Data Analyst,LTIMindtree,"Jersey City, NJ",LinkedIn,2025-04-10,Data Analyst,['R'],,False,10+,United States
+42,78,Junior Data Analyst,CGI,"Arlington, VA",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Mining', 'Data Visualization']",onsite,True,1+,United States
+43,79,Data Analyst,Mastech Digital,"San Francisco, CA",LinkedIn,2025-04-14,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'Excel']",remote,False,,United States
+44,80,Healthcare Data Analyst I - Remote,TieTalent,"California, United States",LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Excel']",,True,2+,United States
+45,81,Data Analyst - 100% Remote,Lensa,"Jacksonville, FL",LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'SQL']",,False,3+,United States
+46,82,Data Analyst,Equiliem,"Lexington, MA",LinkedIn,2025-04-16,Data Analyst,"['SQL', 'Excel']",onsite,True,5+,United States
+47,83,Data Analyst,AARATECH,New York City Metropolitan Area,LinkedIn,2025-04-14,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel', 'Data Visualization']",,True,2+,United States
+48,84,Data Analyst,Keurig Dr Pepper Inc.,"Frisco, TX",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Excel', 'Machine Learning', 'Statistical Analysis']",,True,5+,United States
+49,85,Insights Analyst,Spectrum,"Stamford, CT",LinkedIn,2025-04-15,Other,['SQL'],,True,,United States
+50,86,Sr. Data Analyst,Rivian,"Palo Alto, CA",LinkedIn,2025-04-10,Data Analyst,"['Tableau', 'Python', 'R']",,True,4+,United States
+51,87,Data Analyst,Consulting Point,United States,LinkedIn,2025-04-15,Data Analyst,"['SQL', 'Excel']",,False,4+,United States
+52,88,Sr. Data Analyst,Stefanini North America and APAC,United States,LinkedIn,2025-04-10,Data Analyst,[],,False,5+,United States
+53,89,Data Analyst,Ignite Digital Services,"San Diego, CA",LinkedIn,2025-04-10,Data Analyst,"['Tableau', 'Python', 'SQL', 'Excel', 'Data Visualization']",onsite,True,,United States
+54,90,Data Analyst Contractor,Instacart,United States,LinkedIn,2025-04-15,Data Analyst,"['Python', 'SQL']",,True,4+,United States
+55,91,Data Analyst,ExxonMobil,"Houston, TX",LinkedIn,2025-04-17,Data Analyst,"['Power BI', 'SQL', 'Machine Learning', 'Statistical Analysis']",,True,7+,United States
+56,92,Data Analyst,Ascendum Solutions,"Irvine, CA",LinkedIn,2025-04-14,Data Analyst,"['Power BI', 'Tableau', 'Python', 'Spark', 'SQL', 'R', 'Excel', 'Machine Learning', 'Data Visualization']",onsite,True,,United States
+57,93,"Analyst, Data Analytics & Intelligence",Publicis Digital Experience,"New York, NY",LinkedIn,2025-04-10,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel', 'Data Visualization']",,False,,United States
+58,94,Analista de Dados Junior - São Paulo/SP,Shopee,"São Paulo, São Paulo, Brazil",LinkedIn,2025-04-16,Other,"['SQL', 'Excel']",,False,,Brazil
+59,95,Data Analyst,LTIMindtree,"Bangalore Rural, Karnataka, India",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Python', 'SQL', 'R', 'Excel']",,True,,India
+60,96,"Data Platform Analyst, Subscriptions",Roku,"Bengaluru, Karnataka, India",LinkedIn,2025-04-15,Other,"['Tableau', 'Python', 'SQL']",,True,5+,India
+61,98,Junior Data Analyst,Pion,"London, England, United Kingdom",LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'SQL', 'Excel']",remote,False,,United Kingdom
+62,100,Data Analyst,Aston Martin F1 Team,"Silverstone, England, United Kingdom",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Python', 'Spark', 'SQL', 'Statistical Analysis']",,False,,United Kingdom
+63,103,Healthcare Data Analyst,Infosys,"Bengaluru East, Karnataka, India",LinkedIn,2025-04-16,Data Analyst,['SQL'],,False,,India
+64,108,Junior Data Analyst UK&I,Experian,"Sofia, Sofia City, Bulgaria",LinkedIn,2025-04-15,Data Analyst,['SQL'],,False,,Other
+65,109,Data Analyst,HCLTech,"Bengaluru, Karnataka, India",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Machine Learning', 'NLP', 'Data Visualization']",,False,10+,India
+66,113,"Lead Data Analyst (Power BI,SQL)",Target,"Bengaluru, Karnataka, India",LinkedIn,2025-04-16,Data Analyst,"['Python', 'Spark', 'SQL', 'R', 'Excel', 'Statistical Analysis', 'Relational Databases']",,True,9+,India
+67,115,Data Analyst,AKT London,"Greater London, England, United Kingdom",LinkedIn,2025-04-15,Data Analyst,"['Python', 'SQL', 'Machine Learning']",,False,,United Kingdom
+68,116,Officer - Real Time Analytics,Almosafer,"Riyadh, Saudi Arabia",LinkedIn,2025-04-16,Other,['Excel'],,False,40+,Other
+69,117,Data Analyst,Adecco,Greater Bengaluru Area,LinkedIn,2025-04-15,Data Analyst,['SQL'],,False,5+,Other
+70,118,Data Analyst,StatusNeo,India,LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",,True,2+,India
+71,120,ANALISTA GESTAO DE INDICADORES PL,Camil Alimentos S/A,"São Paulo, São Paulo, Brazil",LinkedIn,2025-04-15,Other,"['Python', 'SQL', 'Excel']",,False,,Brazil
+72,121,Data Analyst,Tata Consultancy Services,"Mississauga, Ontario, Canada",LinkedIn,2025-04-15,Data Analyst,"['Python', 'SQL', 'Excel']",,False,55+,Canada
+73,122,Data Analyst,TLP Consultancy Ltd,"Great Burgh, England, United Kingdom",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Python', 'SQL']",onsite,True,,United Kingdom
+74,125,Data Analyst,Lorien,"London Area, United Kingdom",LinkedIn,2025-04-16,Data Analyst,"['Tableau', 'Excel', 'Data Visualization']",onsite,False,,United Kingdom
+75,127,DATA ANALYST I,Inter,"Belo Horizonte, Minas Gerais, Brazil",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel']",,False,,Brazil
+76,130,Data Analytics,EY,"Gurugram, Haryana, India",LinkedIn,2025-04-15,Data Analyst,"['Data Visualization', 'Statistical Analysis']",onsite,True,12+,India
+77,131,Analista de Dados Júnior | Data Viz,americanas s.a.,Greater Rio de Janeiro,LinkedIn,2025-04-15,Other,"['Power BI', 'Tableau', 'SQL']",,False,,Brazil
+78,134,Data Analytics,EY,"Bengaluru, Karnataka, India",LinkedIn,2025-04-15,Data Analyst,"['Data Visualization', 'Statistical Analysis']",onsite,True,12+,India
+79,135,Analyst-Data Science,American Express,"Gurugram, Haryana, India",LinkedIn,2025-04-15,Other,"['Python', 'SQL', 'R', 'Machine Learning']",onsite,True,4+,India
+80,136,"Analyst, Data Science",Toyota North America,"Plano, TX",LinkedIn,2025-04-15,Other,"['Python', 'SQL', 'Excel', 'Machine Learning']",,True,5+,United States
+81,137,Data Analyst,Kforce Inc,"Boston, MA",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Excel']",,False,,United States
+82,138,Data Analyst Intern,SiteZeus,"Tampa, FL",LinkedIn,2025-04-16,Data Analyst,['Excel'],remote,True,,United States
+83,139,Business Data Analyst,Birlasoft,"London Area, United Kingdom",LinkedIn,2025-04-15,Data Analyst,[],onsite,True,5+,United Kingdom
+84,140,Data Analyst,Eviden,United Kingdom,LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'R']",,False,,United Kingdom
+85,141,Analista de Dados Júnior,Cogna Educação,Brazil,LinkedIn,2025-04-15,Other,"['Python', 'SQL']",,False,,Brazil
+86,142,Data Analyst,AARATECH,"California, United States",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Excel', 'Data Visualization']",,True,5+,United States
+87,143,Data Analyst,Bright Purple,"Dundee, Scotland, United Kingdom",LinkedIn,2025-04-16,Data Analyst,[],,False,,United Kingdom
+88,144,Business Data Analyst,Toyota Financial Services (UK) PLC,"Epsom, England, United Kingdom",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'SQL', 'Excel']",onsite,False,,United Kingdom
+89,145,Data Analyst,Searchability®,"Nottingham, England, United Kingdom",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'SQL', 'Excel']",remote,False,,United Kingdom
+90,146,Sr Data Analyst,The Walt Disney Company,"New York, NY",LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",,True,5+,United States
+91,147,Data Analyst (Data Visualization),Haybury,"Barcelona, Catalonia, Spain",LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'Data Visualization']",,True,3+,Spain
+92,148,Data Analyst,Etiqa Insurance Singapore,"Singapore, Singapore",LinkedIn,2025-04-17,Data Analyst,"['Python', 'SQL']",,True,,Other
+93,149,Data Analyst,Redwood Materials,"Nevada, United States",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'Machine Learning']",,True,2+,United States
+94,150,Analista de Business Intelligence Júnior,iFood,"Osasco, São Paulo, Brazil",LinkedIn,2025-04-15,Data Analyst,['SQL'],,False,,Brazil
+95,151,Data Associate - Gurgaon,Circles,"Gurgaon, Haryana, India",LinkedIn,2025-04-16,Other,"['Tableau', 'Python', 'Spark', 'SQL']",remote,True,5+,India
+96,152,Healthcare Data Analyst,Sogeti,Greater Minneapolis-St. Paul Area,LinkedIn,2025-04-15,Data Analyst,['SQL'],,True,,United States
+97,214,Data Analyst,Artefact,"New York, NY",LinkedIn,2025-04-17,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Excel', 'Machine Learning', 'Data Visualization']",,True,5+,United States
+98,235,Data Analyst,TEKsystems,"Santa Clara, CA",LinkedIn,2025-04-17,Data Analyst,"['Python', 'Spark', 'SQL', 'Machine Learning', 'Data Mining']",onsite,True,25+,United States
+99,241,Data Analyst - Local to Pittsburgh or Cleveland,CGI,"Pittsburgh, PA",LinkedIn,2025-04-11,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'Data Visualization']",,False,3+,United States
+100,242,Analista de Análise de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brazil",LinkedIn,2025-04-15,Data Analyst,['SQL'],,False,,Brazil
+101,256,Data Analyst,Stok,"Toronto, Ontario, Canada",LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Python', 'SQL', 'Excel', 'Data Visualization']",remote,True,,Canada
+102,267,Senior Data Analyst,Asana,"Warsaw, Mazowieckie, Poland",LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'SQL', 'Data Visualization']",,True,5+,Other
+103,282,Data analyst,Aer Lingus,"Dublin, County Dublin, Ireland",LinkedIn,2025-04-17,Data Analyst,"['Tableau', 'Python', 'SQL', 'Data Visualization']",,True,4+,Ireland
+104,284,Data Intern,Doing Things,"New York, NY",LinkedIn,2025-04-14,Other,[],,False,,United States
+105,286,Data Analyst,Redwood Materials,"San Francisco, CA",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'Machine Learning']",,True,2+,United States
+106,294,Data Analyst I,Aditi Consulting,"Lincolnshire, IL",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'SQL', 'Excel']",,False,5+,United States
+107,297,Data Analyst,Hanson Lee,"London Area, United Kingdom",LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Spark', 'SQL', 'Data Mining', 'Data Visualization']",,False,,United Kingdom
+108,298,Jr. Data & BI Analyst,A Place for Mom,"New York, NY",LinkedIn,2025-04-15,Data Analyst,"['Tableau', 'Python', 'SQL']",remote,True,4+,United States
+109,299,Data Analyst,Amplytics,San Francisco Bay Area,LinkedIn,2025-04-17,Data Analyst,"['Power BI', 'SQL']",remote,True,3+,United States
+110,300,Data Analyst,ShimentoX,United States,LinkedIn,2025-04-15,Data Analyst,"['Power BI', 'Tableau', 'SQL', 'Data Visualization', 'Relational Databases']",remote,True,3+,United States
+111,301,Data Analyst,Simera,United States,LinkedIn,2025-04-16,Data Analyst,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Excel', 'Data Visualization', 'Statistical Analysis']",,True,,United States
+112,378,"Data Scientist, Product, Sustainability",Google,"Mountain View, CA",LinkedIn,2025-04-15,Data Scientist,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Visualization', 'Statistical Analysis']",,True,5+,United States
+113,380,"Data Scientist, Product Analytics",Meta,United States,LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning', 'Data Mining']",,True,4+,United States
+114,381,Fraud Data Scientist,ID.me,"Mountain View, CA",LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL']",,False,2+,United States
+115,383,Senior Data Scientist,Roku,"Austin, TX",LinkedIn,2025-04-11,Data Scientist,"['Tableau', 'Python', 'SQL', 'R', 'Data Visualization']",,False,5+,United States
+116,384,Senior Data Scientist,Roku,"Santa Monica, CA",LinkedIn,2025-04-11,Data Scientist,"['Tableau', 'Python', 'SQL', 'R']",,True,4+,United States
+117,385,Data Scientist,Paramount,"New York, NY",LinkedIn,2025-04-11,Data Scientist,"['Python', 'Spark', 'SQL', 'R', 'Machine Learning', 'Natural Language Processing', 'NLP', 'Statistical Analysis']",,True,5+,United States
+118,386,Machine Learning Engineer (L5) - Content & Media ML Foundations,Netflix,United States,LinkedIn,2025-04-11,Machine Learning Engineer,"['Python', 'Excel', 'Machine Learning', 'Natural Language Processing']",,True,5+,United States
+119,387,Data Scientist - Last Mile,Veho,United States,LinkedIn,2025-04-15,Data Scientist,"['Python', 'Spark', 'SQL', 'Machine Learning', 'Relational Databases']",,True,4+,United States
+120,388,"Partner Data Scientist, Growth Partnerships",Meta,"New York, NY",LinkedIn,2025-04-14,Data Scientist,"['Tableau', 'Python', 'Spark', 'SQL', 'R', 'Machine Learning', 'Data Mining', 'Statistical Analysis']",,True,,United States
+121,389,Data Scientist,Elder Research,"Arlington, VA",LinkedIn,2025-04-14,Data Scientist,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Natural Language Processing', 'NLP', 'Data Visualization', 'Statistical Analysis']",remote,True,1+,United States
+122,390,Jr. Data Scientist,Matlen Silver,United States,LinkedIn,2025-04-16,Data Scientist,"['Python', 'Machine Learning']",remote,True,2+,United States
+123,393,Data Scientist,Disney Entertainment,"California, United States",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Spark', 'SQL']",remote,False,3+,United States
+124,394,"Data Scientist, Marketing Science",TikTok,"New York, United States",LinkedIn,2025-04-10,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning', 'Statistical Analysis']",,True,4+,United States
+125,396,AI/ML Engineer,ConglomerateIT,"Dallas, TX",LinkedIn,2025-04-14,Machine Learning Engineer,"['Python', 'Spark', 'SQL', 'Machine Learning']",onsite,True,5+,United States
+126,397,Data Scientist- Customer Lifecycle and Engagement,Robinhood,"New York, NY",LinkedIn,2025-04-17,Data Scientist,"['Python', 'SQL', 'Machine Learning', 'Data Visualization']",,False,,United States
+127,398,Data Scientist,Meta,"Bellevue, WA",LinkedIn,2025-04-14,Data Scientist,"['Tableau', 'Python', 'Spark', 'SQL', 'R', 'Machine Learning', 'NLP', 'Statistical Analysis']",,True,6+,United States
+128,399,Cientista de Dados II - Área Prevenção a Fraudes,Itaú Unibanco,"São Paulo, São Paulo, Brazil",LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'Machine Learning']",,False,,Brazil
+129,400,Data Scientist,Raspberry Pi Foundation,"Cambridge, England, United Kingdom",LinkedIn,2025-04-15,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,False,,United Kingdom
+130,401,Graduate Data Scientist,Zazzle,"Cork, County Cork, Ireland",LinkedIn,2025-04-15,Data Scientist,"['Tableau', 'Python', 'SQL', 'Data Visualization']",,True,,Ireland
+131,402,Data Scientist,DoorDash,"New York, United States",LinkedIn,2025-04-15,Data Scientist,"['Python', 'SQL']",,True,4+,United States
+132,403,"Staff Data Scientist, Strategy & Insights",LinkedIn,"Sunnyvale, CA",LinkedIn,2025-04-17,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning', 'Data Visualization', 'Statistical Analysis']",,True,5+,United States
+133,404,Data Scientist I,Pinterest,United States,LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,True,2+,United States
+134,405,Data Scientist,NielsenIQ,Lisbon Metropolitan Area,LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Data Visualization']",remote,True,,Other
+135,406,Data Scientist/Analyst,Sony Interactive Entertainment,"Dublin, County Dublin, Ireland",LinkedIn,2025-04-17,Data Scientist,"['Power BI', 'Tableau', 'Python', 'SQL', 'R']",,True,3+,Ireland
+136,407,GEN AI/ML,technology,"Bengaluru, Karnataka, India",LinkedIn,2025-04-16,Other,"['Python', 'Spark', 'SQL', 'Machine Learning', 'Natural Language Processing']",,False,10+,India
+137,408,Data Scientist,EXL,"Gurugram, Haryana, India",LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'Machine Learning']",,True,4+,India
+138,409,Data Scientist,CalypsoAI,"Dublin, County Dublin, Ireland",LinkedIn,2025-04-15,Data Scientist,"['Python', 'Machine Learning']",remote,False,5+,Ireland
+139,410,Data Scientist,OCBC Indonesia,"Tangerang, Banten, Indonesia",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Spark', 'R', 'Machine Learning', 'Data Mining']",,True,4+,Indonesia
+140,411,"Data Scientist, Fundamental Sector Data",CPP Investments | Investissements RPC,"New York, NY",LinkedIn,2025-04-15,Data Scientist,"['Python', 'SQL', 'Excel']",,True,6+,United States
+141,412,"Machine Learning Engineer (Berlin, Germany)",Enjins,"Berlin, Berlin, Germany",LinkedIn,2025-04-14,Machine Learning Engineer,"['Python', 'SQL', 'Excel', 'Machine Learning']",,True,,Other
+142,413,Data Scientist,Mercedes-Benz Malaysia,"Puchong, Selangor, Malaysia",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Spark', 'SQL', 'R', 'Machine Learning', 'Statistical Analysis']",remote,True,,Other
+143,414,Data Scientist (L5) - App QoE,Netflix,United States,LinkedIn,2025-04-17,Data Scientist,"['Python', 'SQL']",,False,,United States
+144,415,Data Scientist I,Pinterest,"San Francisco, CA",LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,True,2+,United States
+145,416,Data Scientist (Business Operations),Wolt,"Athens, Attiki, Greece",LinkedIn,2025-04-14,Data Scientist,"['Python', 'Excel']",,False,5+,Other
+146,417,Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer,PingWind Inc. (SDVOSB),Washington DC-Baltimore Area,LinkedIn,2025-04-16,Other,"['Python', 'Machine Learning', 'Natural Language Processing', 'NLP', 'Data Visualization']",,True,2+,United States
+147,418,Junior Frontend Developer,Coca-Cola HBC,"Cairo, Egypt",LinkedIn,2025-04-16,Other,['Object-Oriented Programming'],,True,2+,Egypt
+148,420,"Data Scientist, Product, Sustainability",Google,"San Francisco, CA",LinkedIn,2025-04-15,Data Scientist,"['Power BI', 'Tableau', 'Python', 'SQL', 'R', 'Data Visualization', 'Statistical Analysis']",,True,5+,United States
+149,421,"Data Scientist, Product Analytics",Meta,"Chicago, IL",LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning', 'Data Mining']",,True,2+,United States
+150,422,Data Scientist (Climate & Geospatial),PureFuel,"London Area, United Kingdom",LinkedIn,2025-04-14,Data Scientist,"['Python', 'R', 'Machine Learning']",remote,True,,United Kingdom
+151,423,Data Scientist Jr.,Kantar,"Mexico City, Mexico",LinkedIn,2025-04-14,Data Scientist,[],,False,,Other
+152,424,Data Scientist,Largeton Group,"Sunnyvale, CA",LinkedIn,2025-04-15,Data Scientist,"['Python', 'SQL']",,True,,United States
+153,425,Cientista de Dados - Estágio,SMi Engineering,"Santo André, São Paulo, Brazil",LinkedIn,2025-04-15,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,False,,Brazil
+154,426,Machine Learning Engineer,Capgemini,Greater Bengaluru Area,LinkedIn,2025-04-16,Machine Learning Engineer,"['Python', 'SQL', 'Machine Learning', 'Natural Language Processing', 'NLP']",,True,4+,Other
+155,427,Data Scientist (Entry Level),Network Recruitment,"City of Johannesburg, Gauteng, South Africa",LinkedIn,2025-04-15,Data Scientist,"['Power BI', 'Tableau', 'Python', 'SQL', 'R']",,True,,Other
+156,428,Data Scientist,BBC,"London, England, United Kingdom",LinkedIn,2025-04-15,Data Scientist,"['Python', 'Machine Learning']",,False,20+,United Kingdom
+157,429,Machine Learning Engineer,Recro,"Bengaluru, Karnataka, India",LinkedIn,2025-04-17,Machine Learning Engineer,"['Python', 'Spark', 'Machine Learning']",,True,8+,India
+158,430,Product Data Scientist,Checkout.com,"London, England, United Kingdom",LinkedIn,2025-04-15,Data Scientist,['SQL'],onsite,False,3+,United Kingdom
+159,431,Data Scientist,Capgemini Engineering,Canada,LinkedIn,2025-04-17,Data Scientist,"['Tableau', 'Python', 'SQL', 'R', 'Statistical Analysis']",,True,2+,Canada
+160,432,Data Scientist,Immersum,"London Area, United Kingdom",LinkedIn,2025-04-14,Data Scientist,[],,False,,United Kingdom
+161,433,Machine Learning Engineer,Infosys,"Bengaluru, Karnataka, India",LinkedIn,2025-04-15,Machine Learning Engineer,"['Python', 'SQL', 'Natural Language Processing', 'NLP']",,False,5+,India
+162,434,Research And Development Scientist,i-Pharm Consulting,"Slough, England, United Kingdom",LinkedIn,2025-04-15,Other,['R'],,False,2+,United Kingdom
+163,435,Data Scientist Senior - MLOps & Transformation (F/H),Renault Digital,"Boulogne-Billancourt, Île-de-France, France",LinkedIn,2025-04-17,Data Scientist,"['Python', 'Machine Learning']",,True,,Other
+164,437,Machine Learning Engineer,Jex - Recruitment for scaling businesses,"Dubai, United Arab Emirates",LinkedIn,2025-04-17,Machine Learning Engineer,"['Python', 'Machine Learning', 'NLP']",,False,5+,Other
+165,439,Data Scientist,Jubilant FoodWorks Ltd.,"Noida, Uttar Pradesh, India",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Spark', 'SQL', 'Excel', 'Machine Learning']",,False,8+,India
+166,440,Junior Data Scientist,Discovery Limited,"Gauteng, South Africa",LinkedIn,2025-04-17,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning', 'Data Mining']",,True,,Other
+167,441,Data Scientist-1,FNB South Africa,"Johannesburg, Gauteng, South Africa",LinkedIn,2025-04-15,Data Scientist,['SQL'],,True,,Other
+168,442,Data Scientist,Astria Digital,"Bengaluru, Karnataka, India",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Azure', 'OpenAI', 'GPT-3', 'Deep Learning', 'Machine Learning', 'Natural Language Processing', 'NLP', 'GANs', 'VAEs', 'Data Cleaning']",,False,4+,India
+169,443,Data Scientist,Sigma Suisse,"Geneva, Switzerland",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Machine Learning']",,True,10+,Other
+170,444,Data Scientist Strategy & Value Creation Consulting,KPMG España,"Madrid, Community of Madrid, Spain",LinkedIn,2025-04-15,Data Scientist,"['Python', 'R', 'Tableau']",,False,,Spain
+171,445,Data Scientist (m/f/d),roadsurfer,Spain,LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Power BI', 'Tableau', 'Scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'Machine Learning']",,True,,Spain
+172,446,Machine Learning Engineer,Circana,Greece,LinkedIn,2025-04-16,Machine Learning Engineer,"['Python', 'SQL', 'R', 'Spark', 'Hadoop', 'Pandas', 'NumPy', 'PyTorch', 'Machine Learning']",,True,3+,Other
+173,447,Data Scientist (AI/ML),Collabera,"Toronto, Ontario, Canada",LinkedIn,2025-04-16,Data Scientist,"['Python', 'Spark', 'Pandas', 'NumPy', 'Scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'Machine Learning']",,True,7+,Canada
+174,448,Data Scientist/Sr Data Scientist,American Airlines,"Dallas, TX",LinkedIn,2025-04-15,Data Scientist,"['Python', 'R', 'Azure', 'Machine Learning']",,True,,United States
+175,449,Machine Learning Engineer (Junior),LogicMatrix,"Florida, United States",LinkedIn,2025-04-17,Machine Learning Engineer,"['Python', 'Scikit-learn', 'TensorFlow', 'Machine Learning']",remote,False,2+,United States
+176,450,Machine Learning Engineer,Neotalent Conclusion,Lisbon Metropolitan Area,LinkedIn,2025-04-15,Machine Learning Engineer,"['Python', 'Scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'Deep Learning', 'Machine Learning', 'NLP']",,False,25+,Other
+177,451,AI/ML Developer,SWITS DIGITAL Private Limited,India,LinkedIn,2025-04-17,Other,"['Python', 'Spark', 'AWS', 'Scikit-learn', 'TensorFlow', 'PyTorch', 'Machine Learning', 'NLP']",remote,False,5+,India
+178,452,Machine Learning Engineer,Neotalent Conclusion,Porto Metropolitan Area,LinkedIn,2025-04-15,Machine Learning Engineer,"['Python', 'Scikit-learn', 'TensorFlow', 'Keras', 'PyTorch', 'Deep Learning', 'Machine Learning', 'NLP']",,False,25+,Other
+179,453,AI/ML Researcher,Seer,San Francisco Bay Area,LinkedIn,2025-04-16,Machine Learning Engineer,not exist,,False,,United States
+180,454,Data Scientist,Aditi Consulting,"California, United States",LinkedIn,2025-04-10,Data Scientist,"['Python', 'SQL', 'AWS', 'Pandas', 'Scikit-learn', 'TensorFlow', 'PyTorch', 'Deep Learning', 'Machine Learning', 'Natural Language Processing']",,True,5+,United States
+181,455,Data Scientist,Camping World,Greater Chicago Area,LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Power BI', 'Spark', 'Hadoop', 'Machine Learning']",,True,4+,Other
+182,456,Data Scientist,Krungthai Bank,Bangkok Metropolitan Area,LinkedIn,2025-04-16,Data Scientist,"['Python', 'SQL', 'R', 'Spark', 'Hadoop', 'Machine Learning']",,True,5+,Other
+183,457,Machine Learning Engineer,CXC,"London Area, United Kingdom",LinkedIn,2025-04-17,Machine Learning Engineer,"['Python', 'TensorFlow', 'PyTorch', 'Deep Learning']",,False,,United Kingdom
+184,458,"Data Scientist, Consumer Research & Marketing",Handshake,"San Francisco, CA",LinkedIn,2025-04-13,Data Scientist,"['SQL', 'Power BI', 'Tableau', 'BigQuery', 'Looker']",remote,False,6+,United States
+185,463,"Data Scientist, Marketing",Wealthfront,"Palo Alto, CA",LinkedIn,2025-04-11,Data Scientist,"['Python', 'SQL']",,True,8+,United States
+186,465,Machine Learning Engineer,Netflix,United States,LinkedIn,2025-04-17,Machine Learning Engineer,"['Python', 'Machine Learning', 'Natural Language Processing']",,True,5+,United States
+187,469,Data Scientist,Meta,"Fremont, CA",LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Tableau', 'Spark', 'Machine Learning', 'NLP']",,True,6+,United States
+188,478,AI Engineer,LinkedIn,"Sunnyvale, CA",LinkedIn,2025-04-16,Other,"['Python', 'Deep Learning', 'Machine Learning', 'Natural Language Processing', 'NLP']",,True,1+,United States
+189,479,Data Scientist,Meta,"Menlo Park, CA",LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Tableau', 'Spark', 'Machine Learning', 'NLP']",,True,6+,United States
+190,480,"Data Scientist, Product Analytics",Meta,"Redmond, WA",LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,True,,United States
+191,481,"Data Scientist III, Product, Operations Data Science",Google,"San Francisco, CA",LinkedIn,2025-04-12,Data Scientist,"['Python', 'SQL', 'R']",,True,3+,United States
+192,482,"Data Scientist, Product Analytics",Meta,"Los Angeles, CA",LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,True,2+,United States
+193,484,"Data Scientist III, Product, Operations Data Science",Google,"Sunnyvale, CA",LinkedIn,2025-04-12,Data Scientist,"['Python', 'SQL', 'R']",,True,3+,United States
+194,486,"Data Scientist, Product Analytics",Meta,"Fremont, CA",LinkedIn,2025-04-14,Data Scientist,"['Python', 'SQL', 'R', 'Machine Learning']",,True,4+,United States
+195,496,Machine Learning Software Engineer (L5) - Content and Studio,Netflix,United States,LinkedIn,2025-04-12,Other,['PyTorch'],,False,,United States
+196,499,Data Scientist III (Commercial Analytics),Cedar,United States,LinkedIn,2025-04-10,Data Scientist,"['Python', 'SQL', 'Power BI', 'Tableau', 'Looker']",,False,5+,United States
+197,577,Data Engineer (L5) - Conversation,Netflix,Utica-Rome Area,LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'Spark', 'Machine Learning', 'BigQuery', 'Snowflake']",,False,8+,Other
+198,578,Data Engineer (L4) - Security,Netflix,"Los Gatos, CA",LinkedIn,2025-04-17,Data Engineer,"['Python', 'SQL', 'Spark']",,False,2+,United States
+199,579,Data Engineer,Meta,"Fremont, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'AWS', 'Machine Learning', 'BigQuery']",,True,5+,United States
+200,580,"Data Engineer, Play Data Science and Analytics",Google,"Mountain View, CA",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'R', 'Spark', 'Hadoop']",,True,10+,United States
+201,581,Data Engineer,Barstool Sports,"New York, NY",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'AWS', 'BigQuery', 'Snowflake', 'Looker']",remote,False,3+,United States
+202,582,Data Engineer,Calm,"San Francisco, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'AWS', 'GCP', 'Machine Learning', 'BigQuery', 'Snowflake']",,False,5+,United States
+203,583,"Data Engineer, Infrastructure",Notion,"San Francisco, CA",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'AWS', 'GCP', 'Snowflake']",,False,2+,United States
+204,584,ML Software Engineer (L4/L5) - Media Algorithms,Netflix,"Los Angeles, CA",LinkedIn,2025-04-15,Machine Learning Engineer,"['Python', 'R', 'AWS', 'TensorFlow', 'PyTorch', 'Deep Learning', 'Machine Learning']",,False,,United States
+205,585,Data Engineer,Costco Wholesale,"Seattle, WA",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'R', 'Spark', 'Azure', 'GCP', 'Deep Learning', 'Machine Learning']",,True,,United States
+206,586,Analytics Engineer (L4) - Acquisition,Netflix,"Los Gatos, CA",LinkedIn,2025-04-16,Other,"['SQL', 'Power BI', 'Tableau', 'Excel', 'Spark', 'Looker']",,False,5+,United States
+207,587,Data Engineer,Meta,"Menlo Park, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'AWS', 'Machine Learning', 'BigQuery']",,True,5+,United States
+208,588,Data Engineer,Meta,"Bellevue, WA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'AWS', 'Machine Learning', 'BigQuery']",,True,5+,United States
+209,589,Data Engineer,Walgreens,"Deerfield, IL",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'Azure']",,True,2+,United States
+210,590,"Data Engineer, Product Analytics",Meta,"Los Angeles, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,2+,United States
+211,591,Data Engineer,PepsiCo,"Plano, TX",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'Azure', 'Machine Learning', 'Snowflake']",remote,True,4+,United States
+212,592,Data Engineer I (Full Time) United States,Cisco,"San Jose, CA",LinkedIn,2025-04-16,Data Engineer,"['Python', 'Tableau', 'Spark', 'Hadoop', 'Azure', 'AWS', 'Machine Learning']",,True,3+,United States
+213,593,"Software Engineer L4, Machine Learning Platform (Metaflow)",Netflix,"Los Gatos, CA",LinkedIn,2025-04-12,Other,"['Python', 'Spark', 'Hadoop', 'AWS', 'TensorFlow', 'PyTorch', 'Deep Learning', 'Machine Learning']",,True,3+,United States
+214,595,Data Engineer,Amazon,"Seattle, WA",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Tableau', 'Spark', 'AWS']",,True,3+,United States
+215,596,Data Engineer I (Full Time) United States,Cisco,"North Carolina, United States",LinkedIn,2025-04-15,Data Engineer,"['Python', 'Tableau', 'Spark', 'Hadoop', 'Azure', 'AWS', 'Machine Learning']",,True,3+,United States
+216,598,"Software Engineer 5, Data Clean Room",Netflix,"Seattle, WA",LinkedIn,2025-04-11,Other,"['Python', 'SQL', 'Spark', 'Azure', 'AWS', 'GCP']",,False,,United States
+217,599,Senior Data Engineer,Acorns,United States,LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'AWS']",remote,True,10+,United States
+218,600,Data Engineer Graduate (Ads Data Application) - 2025 Start (BS/MS),TikTok,"San Jose, CA",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'Machine Learning', 'BigQuery', 'Snowflake']",,True,,United States
+219,601,"Data Engineer, Product Analytics",Meta,"Miami, FL",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,7+,United States
+220,602,"Data Engineer, Product Analytics",Meta,"Redmond, WA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,2+,United States
+221,603,Data Engineer,Amazon,"Cupertino, CA",LinkedIn,2025-04-13,Data Engineer,"['Python', 'SQL', 'Tableau', 'Spark', 'AWS']",,True,3+,United States
+222,604,"Senior, Data Engineer",Walmart,"Sunnyvale, CA",LinkedIn,2025-04-10,Data Engineer,"['Python', 'Spark', 'Hadoop', 'Azure', 'GCP', 'Snowflake']",,True,6+,United States
+223,606,"Software Engineer, AI Platform - New Grad",Nuro,"Mountain View, CA",LinkedIn,2025-04-16,Other,"['Python', 'Machine Learning']",,True,,United States
+224,608,Data Engineer - People Analytics,Twitch,"San Francisco, CA",LinkedIn,2025-04-16,Data Engineer,"['Python', 'AWS']",,False,2+,United States
+225,609,"Data Engineer, E-Commerce",TikTok,"Seattle, WA",LinkedIn,2025-04-13,Data Engineer,"['SQL', 'R', 'Spark', 'Hadoop']",,True,,United States
+226,611,"Data Engineer, VX Analytics",The Walt Disney Company,"Santa Monica, CA",LinkedIn,2025-04-13,Data Engineer,"['Python', 'SQL', 'Tableau', 'Snowflake']",,True,3+,United States
+227,612,Sr. Data Engineer,Ford Motor Company,"Dearborn, MI",LinkedIn,2025-04-12,Data Engineer,"['SQL', 'GCP']",,True,5+,United States
+228,613,Data Engineer III,Walmart,"Sunnyvale, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'Azure', 'GCP', 'Snowflake']",,True,2+,United States
+229,614,"Data Engineer, Product Analytics",Meta,"Austin, TX",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,2+,United States
+230,615,"Data Engineer, Product Analytics",Meta,"Washington, DC",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,2+,United States
+231,616,"Data Engineer, Product Analytics",Meta,United States,LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Machine Learning']",,True,7+,United States
+232,617,Data Engineer,Snap Inc.,"Los Angeles, CA",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'BigQuery']",,True,1+,United States
+233,619,"Data Engineer, Product Analytics",Meta,"Menlo Park, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Scala', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,2+,United States
+234,621,"Data Engineer, Analytics (Technical Leadership)",Instagram,"San Francisco, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,10+,United States
+235,622,"Remote Engineer, Data, I",Lensa,"Plano, TX",LinkedIn,2025-04-16,Data Engineer,"['SQL', 'Power BI', 'Azure', 'Snowflake', 'Databricks', 'ETL']",remote,True,2+,United States
+236,623,"Data Engineer, Analytics (Technical Leadership)",Instagram,"New York, NY",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,10+,United States
+237,625,"Sr. Data Engineer, Analytics",Quizlet,"New York, NY",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'Airflow', 'Snowflake', 'MySQL', 'BigQuery', 'dbt', 'Machine Learning']",onsite,True,,United States
+238,626,"Data Engineer, Product Analytics",Meta,"Bellevue, WA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Scala', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,2+,United States
+239,627,Data Engineer Jr.,CGI,"Arlington, VA",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'Databricks']",,True,3+,United States
+240,628,Data Engineer,Amazon,"New York, United States",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'Excel', 'Spark', 'Hadoop', 'AWS', 'Redshift', 'Java', 'Scala', 'ETL', 'Hive']",,False,3+,United States
+241,629,"Data Engineer, Product Analytics",Meta,"Seattle, WA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Scala', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,2+,United States
+242,630,Data Engineer - Subscriptions,Spotify,"New York, NY",LinkedIn,2025-04-16,Data Engineer,"['Python', 'Spark', 'Java', 'Scala', 'BigQuery', 'Machine Learning']",,False,,United States
+243,631,"Data Engineer, Product Analytics",Meta,"Sunnyvale, CA",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Scala', 'ETL', 'Machine Learning', 'Artificial Intelligence']",,True,2+,United States
+244,632,"Data Engineer, E-Commerce",TikTok,"San Jose, CA",LinkedIn,2025-04-14,Data Engineer,"['R', 'SQL', 'Spark', 'Hadoop', 'Kafka', 'ETL', 'Hive']",,True,,United States
+245,633,"Data Engineer, Digital Acceleration",Amazon,"Bellevue, WA",LinkedIn,2025-04-10,Data Engineer,"['Python', 'NoSQL', 'AWS', 'Redshift', 'Java', 'ETL']",,True,3+,United States
+246,634,(USA) Data Engineer III,Walmart,"Sunnyvale, CA",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'AWS', 'Azure', 'Docker', 'Kubernetes']",,True,5+,United States
+247,636,Data Engineer (University Grad),WhatsApp,"London, England, United Kingdom",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL']",,True,,United Kingdom
+248,639,"Data Engineer I, IN-Ads",Amazon,"Bengaluru, Karnataka, India",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'Excel', 'Spark', 'AWS', 'Redshift', 'Scala', 'ETL', 'Machine Learning']",,True,1+,India
+249,640,Data Engineer - Python,Ericsson,"Bengaluru, Karnataka, India",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'AWS', 'Azure', 'GCP', 'Snowflake', 'Git']",,True,4+,India
+250,642,Data Engineer with Python + SQL,Cognizant,"Bangalore Urban, Karnataka, India",LinkedIn,2025-04-13,Data Engineer,"['Python', 'SQL', 'NoSQL', 'Hadoop', 'AWS', 'Azure', 'Java', 'Scala']",,False,14+,India
+251,646,Data Engineer,Capgemini,"Hyderabad, Telangana, India",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Airflow', 'AWS', 'Azure', 'JSON', 'ETL']",remote,True,6+,India
+252,647,Data Engineer,PwC Acceleration Centers,"Bengaluru, Karnataka, India",LinkedIn,2025-04-14,Data Engineer,"['SQL', 'Spark', 'Kafka', 'AWS', 'Azure', 'Databricks', 'ETL']",,True,,India
+253,648,"Data Engineer, Product Analytics",Meta,"Bengaluru, Karnataka, India",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Scala', 'ETL']",,True,4+,India
+254,649,"Data Engineer, Marketplace",Lyft,"Toronto, Ontario, Canada",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'Airflow', 'PostgreSQL', 'MySQL', 'ETL', 'Hive']",,False,3+,Canada
+255,650,Data Engineer,Docusign,"Bengaluru, Karnataka, India",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'Spark', 'Kafka', 'Azure', 'Git', 'Kubernetes', 'Scala', 'Databricks']",remote,True,5+,India
+256,651,Data Engineer,Persistent Systems,"Pune, Maharashtra, India",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Spark', 'AWS', 'Java', 'Scala', 'Hive']",,False,10+,India
+257,655,UK 2025 Data Engineer Internship,Amazon,"London, England, United Kingdom",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'NoSQL', 'Java']",,False,,United Kingdom
+258,656,Data Engineer,ASOS.com,"London, England, United Kingdom",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'Git', 'Scala', 'Databricks']",,False,,United Kingdom
+259,657,Infrastructure Partner Data Engineer,Google,"Bengaluru, Karnataka, India",LinkedIn,2025-04-17,Data Engineer,"['Python', 'Tableau', 'Power BI', 'Spark', 'Java', 'ETL', 'Linux', 'Jupyter']",,True,,India
+260,658,Data Engineer,Ericsson,Greater Kolkata Area,LinkedIn,2025-04-14,Data Engineer,"['SQL', 'Snowflake', 'ETL', 'ELT']",,False,15+,Other
+261,660,"Infrastructure Partner Data Engineer, YouTube",Google,"Bengaluru, Karnataka, India",LinkedIn,2025-04-12,Data Engineer,"['Tableau', 'Power BI', 'Spark', 'ETL', 'Jupyter', 'Machine Learning']",,True,3+,India
+262,662,Data Engineer,Thomson Reuters,"Hyderabad, Telangana, India",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Tableau', 'Power BI', 'AWS', 'Snowflake', 'Java', 'dbt', 'JavaScript']",,True,5+,India
+263,664,Data Engineer III,Banco Bradesco,"Osasco, São Paulo, Brazil",LinkedIn,2025-04-17,Data Engineer,"['Python', 'R', 'SQL', 'Power BI', 'AWS', 'Azure', 'GCP', 'Git', 'Java', 'Databricks', 'Hive', 'SAS', 'HTML']",,False,,Brazil
+264,665,"Infrastructure Partner Data Engineer, Youtube",Google,"Bengaluru, Karnataka, India",LinkedIn,2025-04-12,Data Engineer,"['Python', 'Tableau', 'Power BI', 'Spark', 'ETL', 'Jupyter', 'Machine Learning']",,True,3+,India
+265,666,Data Operation Engineer I,McKinsey & Company,"Gurugram, Haryana, India",LinkedIn,2025-04-11,Data Engineer,"['Python', 'SQL', 'Tableau', 'Power BI', 'Airflow', 'AWS', 'Azure', 'Snowflake', 'dbt', 'ETL']",,False,3+,India
+266,668,Data Engineer(AWS),PwC Acceleration Centers,"Bengaluru, Karnataka, India",LinkedIn,2025-04-14,Data Engineer,"['SQL', 'Spark', 'Kafka', 'AWS', 'Redshift', 'Databricks', 'ETL']",,True,,India
+267,670,Data Engineer,Chevron,"Manila, National Capital Region, Philippines",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'PostgreSQL', 'Git', 'Java', 'Scala', 'Databricks', 'ETL']",remote,True,3+,Other
+268,671,Data Engineer,Samba TV,"Amsterdam, North Holland, Netherlands",LinkedIn,2025-04-15,Data Engineer,"['Python', 'Spark', 'Airflow', 'AWS', 'Azure', 'GCP', 'Databricks']",,True,5+,Other
+269,672,Data Engineer,Thales,"Gambir, Jakarta, Indonesia",LinkedIn,2025-04-17,Data Engineer,"['Tableau', 'Looker', 'Kafka', 'BigQuery', 'dbt', 'ETL']",,False,40+,Indonesia
+270,673,Data Engineer,Ford Motor Company,"Chennai, Tamil Nadu, India",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'NoSQL', 'GCP', 'PostgreSQL', 'MySQL', 'Java', 'BigQuery', 'dbt']",,True,7+,India
+271,674,Data Engineer,Mphasis,"Bengaluru, Karnataka, India",LinkedIn,2025-04-14,Data Engineer,"['Python', 'R', 'SQL', 'NoSQL', 'AWS', 'Kubernetes', 'ETL', 'Jupyter']",,False,6+,India
+272,675,Associate Data Engineer,Commonwealth Bank,"Bengaluru East, Karnataka, India",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'AWS', 'MySQL', 'Scala', 'ETL', 'Shell', 'Hive']",,True,3+,India
+273,677,Data Engineer - C10,Citi,"Pune, Maharashtra, India",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'NoSQL', 'Spark', 'Hadoop', 'Snowflake', 'Redshift', 'MySQL', 'Docker', 'Kubernetes', 'Java', 'Scala', 'Databricks', 'BigQuery', 'ETL', 'Hive']",,True,4+,India
+274,679,Data Engineer - Commerce Platform,Spotify,"London, England, United Kingdom",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'AWS', 'Azure', 'GCP', 'Java', 'Scala', 'dbt']",,False,,United Kingdom
+275,680,Data Engineer,Coca-Cola HBC,"Cairo, Egypt",LinkedIn,2025-04-13,Data Engineer,"['Python', 'SQL', 'Spark', 'Azure', 'Databricks']",,True,,Egypt
+276,682,Data Engineer - Enterprise Data Operations Analyst,PepsiCo,"Hyderabad, Telangana, India",LinkedIn,2025-04-14,Data Engineer,"['Python', 'SQL', 'Airflow', 'AWS', 'Azure', 'Snowflake', 'Redshift', 'MySQL', 'Kubernetes', 'Databricks', 'ETL', 'ELT', 'Machine Learning']",remote,False,9+,India
+277,683,Jr. Data Engineer,Procter & Gamble,Greater Istanbul,LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'Spark', 'AWS', 'Azure', 'GCP', 'Databricks', 'ETL']",,True,,Other
+278,684,Data Engineer - C11,Citi,"Pune, Maharashtra, India",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'NoSQL', 'Spark', 'Hadoop', 'Snowflake', 'Redshift', 'MySQL', 'Docker', 'Kubernetes', 'Java', 'Scala', 'Databricks', 'BigQuery', 'ETL', 'Hive']",,True,8+,India
+279,687,Python & SQL Data Engineer_Director_Software Engineering,Morgan Stanley,"Mumbai, Maharashtra, India",LinkedIn,2025-04-12,Data Engineer,"['Python', 'SQL', 'Spark', 'Kafka', 'Airflow', 'Azure', 'Snowflake', 'PostgreSQL', 'Git', 'Pandas', 'NumPy', 'ETL', 'ELT', 'Shell', 'Jupyter']",,False,4+,India
+280,688,"Senior Software Engineer, Systems Infrastructure",LinkedIn,"Bengaluru, Karnataka, India",LinkedIn,2025-04-11,Other,"['Python', 'Spark', 'Hadoop', 'Kafka', 'Azure', 'Kubernetes', 'Java', 'Scala', 'Hive']",,True,5+,India
+281,689,Data Analytics Engineer,Checkout.com,"London, England, United Kingdom",LinkedIn,2025-04-14,Other,"['SQL', 'Looker', 'AWS', 'Azure', 'Snowflake', 'dbt']",,False,,United Kingdom
+282,690,Data Engineer (Platform),tiket.com,"Jakarta, Jakarta, Indonesia",LinkedIn,2025-04-11,Data Engineer,"['NoSQL', 'Kafka', 'Git', 'Docker', 'Kubernetes', 'Linux', 'JavaScript']",remote,True,3+,Indonesia
+283,691,Data Engineer- Python Pyspark,Virtusa,"Chennai, Tamil Nadu, India",LinkedIn,2025-04-10,Data Engineer,"['Python', 'SQL', 'Kafka', 'Airflow', 'AWS', 'Redshift', 'ETL', 'Shell']",,False,7+,India
+284,692,Data Engineer with Pyspark,Cognizant,"Bangalore Urban, Karnataka, India",LinkedIn,2025-04-13,Data Engineer,"['SQL', 'Spark', 'AWS', 'ETL']",,False,14+,India
+285,693,Data Engineer,Mercedes-Benz Malaysia,"Puchong, Selangor, Malaysia",LinkedIn,2025-04-16,Data Engineer,"['Python', 'R', 'SQL', 'NoSQL', 'Power BI', 'Databricks', 'Artificial Intelligence']",remote,True,,Other
+286,740,Data Engineer I,IntePros,"Seattle, WA",LinkedIn,2025-04-15,Data Engineer,"['Python', 'SQL', 'Redshift', 'MySQL', 'ETL', 'ELT']",,True,3+,United States
+287,741,Data Engineer,Snap Inc.,"Bellevue, WA",LinkedIn,2025-04-16,Data Engineer,"['Python', 'SQL', 'Spark', 'Hadoop', 'Airflow', 'Git', 'Java', 'Scala', 'BigQuery', 'ETL']",,True,1+,United States
